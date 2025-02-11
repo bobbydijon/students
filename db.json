@@ -1,0 +1,22 @@
+{
+  "students": [
+     {
+        "id":111,
+        "scholar": "Ernesto",
+        "trips": 1,
+        "status": "Clear",
+     },
+    {
+        "id":456,
+        "scholar": "Bob Pablo",
+        "trips": 0,
+        "status": "Clear",
+     },
+    {
+        "id":789,
+        "scholar": "Sam",
+        "trips": 2,
+        "status": "Clear",
+     }
+  ]
+}
